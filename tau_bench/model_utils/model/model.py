@@ -23,6 +23,7 @@ class Platform(enum.Enum):
     MISTRAL = "mistral"
     ANTHROPIC = "anthropic"
     ANYSCALE = "anyscale"
+    GROQ = "groq"
     OUTLINES = "outlines"
     VLLM_CHAT = "vllm-chat"
     VLLM_COMPLETION = "vllm-completion"
